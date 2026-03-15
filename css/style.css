@@ -7,7 +7,7 @@
 4- hover effect 1 (left to right)
 5- hover effect 2 (top to bottom)
 */
-@media screen and (max-width: 768px){
+@media screen and (max-width: 480px){
     .container{
         max-width:560px;
     }
